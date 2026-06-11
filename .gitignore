@@ -1,0 +1,9 @@
+out/
+build/
+.vs/
+x64/
+*.obj
+*.exe
+build/
+.vscode/
+Pomiary/
